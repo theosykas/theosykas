@@ -34,8 +34,10 @@ Mon profil est axé sur la conception de solutions fiables, la gestion d'infrast
 
 ### stats and activity
 
+### Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theosykas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats GitHub" />
+  <img src="https://streak-stats.demolab.com?user=theosykas&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
