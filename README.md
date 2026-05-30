@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/theosykas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Developer;System+Architecture+Enthusiast;Student+%4042" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Software+Developer;System+Architecture+Enthusiast;Student+%4042" alt="Typing SVG" />
   </a>
 </p>
 
