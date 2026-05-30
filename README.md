@@ -26,9 +26,10 @@ Mon profil est axé sur la conception de solutions fiables, la gestion d'infrast
 
 **Workflow & Collaboration**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,discord,notion&theme=dark" />
+  <img src="https://cdn.simpleicons.org/github/white" width="45" height="45" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linear/white" width="45" height="45" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/slack" width="45" height="45" />
 </p>
-
 ---
 
 ### stats and activity
