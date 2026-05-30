@@ -26,9 +26,7 @@ Mon profil est axé sur la conception de solutions fiables, la gestion d'infrast
 
 **Workflow & Collaboration**
 <p align="left">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" alt="Linear" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  <img src="https://skillicons.dev/icons?i=github,discord,notion&theme=dark" />
 </p>
 
 ---
