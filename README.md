@@ -28,7 +28,7 @@ Mon profil est axé sur la conception de solutions fiables, la gestion d'infrast
 <p align="left">
   <img src="https://cdn.simpleicons.org/github/white" width="45" height="45" /> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/linear/white" width="45" height="45" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/slack" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45" height="45" />
 </p>
 ---
 
